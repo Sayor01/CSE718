@@ -15,5 +15,7 @@ comparing malaria response to historic climate data based on simulation and offi
 Link to the paper:
 https://link.springer.com/article/10.1186/1475-2875-11-331
 
+I also correctly uploaded slide.PPT and report.PDF here.
+
 
 
