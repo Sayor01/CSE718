@@ -6,7 +6,7 @@ Link to unlisted YouTube video:
 https://youtu.be/SN-SmpYdUIk
 
 Public link to the slide:
-
+https://github.com/Sayor01/CSE718/blob/main/Submission1/23266015_Task1_paper%20review.pptx
 
 Paper title:
 A global model of malaria climate sensitivity: 
